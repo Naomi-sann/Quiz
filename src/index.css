@@ -1,0 +1,19 @@
+@import "../node_modules/firacode/distr/fira_code.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:focus {
+  outline: none;
+}
+
+::-moz-focus-inner {
+  border: 0;
+}
+
+.sm\:bg-logo-alt {
+  background-repeat: no-repeat;
+  background-size: auto 90%;
+  background-position: bottom right -100px;
+}
