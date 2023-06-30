@@ -4,13 +4,13 @@ a simple and minimal quiz app built with react, typescript & tailwind
 
 ## Running the application
 
-- Run the server by
+Run the server by
 
 ```
 npm run server
 ```
 
-- and the react app by
+and the react app by
 
 ```
 npm start
